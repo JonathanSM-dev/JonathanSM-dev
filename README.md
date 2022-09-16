@@ -16,7 +16,7 @@
   <img align="center" alt="Jonathan-Csharp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jonathan-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="Jonathan-GitHub" height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/733/733553.png?w=740&t=st=1663260469~exp=1663261069~hmac=e44b1835f6767519698b5c24872ad3f0c6b3bebcd21e3d7ca34c1e2750fb5eb7">
-  <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Rafa-gif" src="https://media0.giphy.com/media/qMGOIRnDWIUUM4htkD/giphy.gif?cid=ecf05e478aabb0h5b338klqk9q8w740kaaoblgd1bqxk8z9x&rid=giphy.gif&ct=g">
 </div>
   
 ##
