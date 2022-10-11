@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/JonathanSM-dev/">
   <img height="240em" src="https://github-readme-stats.vercel.app/api?username=JonathanSM-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img  height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSM-dev&layout=classic&langs_count=17&theme=github_dark"/>
+  <img  height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSM-dev&layout=compact&langs_count=17&theme=github_dark"/>
 </div>
   
 <div style="display: inline_block"><br>
