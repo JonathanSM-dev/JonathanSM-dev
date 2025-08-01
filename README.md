@@ -30,7 +30,7 @@ Sou desenvolvedor Salesforce, estudante de Engenharia de Software na UTFPR e ent
 ###  GitHub Stats
 <div>
   <a href="https://github.com/JonathanSM-dev/">
-    <img height="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSM-dev&layout=compact&langs_count=10&theme=github_dark"/>
+    <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSM-dev&layout=compact&langs_count=10&theme=github_dark"/>
 </div>
 
 ---
